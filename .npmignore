@@ -1,0 +1,6 @@
+lib
+test
+examples
+build
+.idea
+node_modules
